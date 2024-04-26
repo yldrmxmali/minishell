@@ -1,1 +1,1 @@
-# minishell
+minik bir bash çalışmam
